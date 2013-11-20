@@ -1,9 +1,9 @@
-CATSEP 3 -- Service
+CATEP 3 -- Service
 ===================
 
 Abstract
 --------
-定义CATS项目的对外服务。
+定义CAT项目的对外服务。
 
 
 文章

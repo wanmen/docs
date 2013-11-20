@@ -1,7 +1,7 @@
-CATSEP 2 -- URL Structure
+CATEP 2 -- URL Structure
 =========================
 
 Abstract
 --------
-Define CATS's URL.
+Define CAT's URL.
 

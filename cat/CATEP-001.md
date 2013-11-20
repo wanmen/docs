@@ -1,10 +1,10 @@
-CATSEP 1 -- CATS Purpose and Guidelines
+CATEP 1 -- CAT Purpose and Guidelines
 =========================================
 
-What is a CATSEP
+What is a CATEP
 -----------------
-CATSEP stands for CATS Enhancement Proposal.
+CATEP stands for CAT Enhancement Proposal.
 
-What is CATS
+What is CAT
 ------------
-CATS stands for Schrödinger's cat.
+CAT stands for Schrödinger's cat.
